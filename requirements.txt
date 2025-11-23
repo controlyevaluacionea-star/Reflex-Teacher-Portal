@@ -1,0 +1,5 @@
+pymongo
+reflex
+dnspython
+reflex-enterprise
+pymongo[srv]
